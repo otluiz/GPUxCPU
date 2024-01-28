@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Executando exemplo C++..."
+time ./qubit_simulation
+
+echo "Executando exemplo Cuda..."
+time ./qubit_simulationcu
