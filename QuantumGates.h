@@ -24,6 +24,9 @@ namespace QuantumGates {
   Matrix4cd freadkinGate(); //8
   
   Matrix4cd qSwapGate();
+
+  Matrix4cd cnotGate();
+
   
 // A biblioteca Eigen deve estar no include dos arquivos
 
